@@ -1,0 +1,12 @@
+# macOS
+.DS_Store
+
+# Obsidian 本地状态（保留插件/主题配置，排除工作区状态）
+.obsidian/workspace*
+.obsidian/cache
+.obsidian/graph.json
+
+# 临时文件
+*.tmp
+~$*
+.trash/
