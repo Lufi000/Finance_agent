@@ -24,3 +24,4 @@ status: final
 - [[PLAYBOOK]] — 操作手册
 - [[earnings_iv_landscape]] — 行业调研（开源/学术/机构）
 - [[watchlist]] — 候选清单
+- [[calendar_2026H2]] — 2026 年 8–12 月财报日历 × 策略初判
