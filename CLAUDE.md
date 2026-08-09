@@ -9,9 +9,13 @@ Claude 负责研究、写作、维护笔记；Obsidian 负责浏览、双链、�
 deepsearch/<行业>/<子主题>/          # 深度研究笔记，如 deepsearch/semiconductor/industry_chain/
   <报告名>.md                       # 主报告
   <report>/img/                     # 配图（图表 PNG），与报告同级的资源目录
+deepsearch/<领域>/concepts/          # 概念原子笔记（如 IV_crush.md），供所有研究复用
+deepsearch/<领域>/<领域>_MOC.md      # 领域概念图谱索引
+strategies/<策略名>/                 # 可执行策略：PLAYBOOK + watchlist + templates + journal
 ```
 
 - 新研究按 `deepsearch/行业/子主题/` 归档，不要堆在根目录
+- **反复出现的概念（≥2 篇研究会引用）应沉淀为 `concepts/` 原子笔记**，并在 MOC 登记；研究笔记通过 `[[wikilink]]` 挂接概念，让图谱自然生长
 - 图片统一放报告旁边的 `*/img/` 目录，用**相对路径**引用：`![描述](semireport/img/c1_market.png)`
 
 ## 笔记格式规范

@@ -6,6 +6,9 @@
 .obsidian/cache
 .obsidian/graph.json
 
+# Claude Code 本地状态（定时任务等）
+.claude/
+
 # 临时文件
 *.tmp
 ~$*
