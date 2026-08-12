@@ -25,3 +25,4 @@ status: final
 - [[earnings_iv_landscape]] — 行业调研（开源/学术/机构）
 - [[watchlist]] — 候选清单
 - [[calendar_2026H2]] — 2026 年 8–12 月财报日历 × 策略初判
+- [[execution_2026-08]] — 2026 年 8–9 月财报季执行策略报告（结构/行权价/仓位/时间线）
